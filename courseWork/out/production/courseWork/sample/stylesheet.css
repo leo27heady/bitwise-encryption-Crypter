@@ -1,0 +1,188 @@
+.parent{
+    -fx-background-color: white;
+}
+
+.sidebar{
+    -fx-background-color: #242329;
+}
+
+.forgotButton{
+    -fx-text-fill: #c71f68;
+}
+
+.forgotButton:hover {
+    -fx-text-fill: #c71f68;
+    -fx-opacity: 100%;
+}
+
+.rememberButton{
+    -fx-text-fill: #c71f68;
+}
+
+.rememberButton:hover {
+    -fx-text-fill: #c71f68;
+    -fx-opacity: 100%;
+}
+
+.registerButton{
+    -fx-text-fill: #c71f68;
+}
+
+.registerButton:hover {
+    -fx-text-fill: #c71f68;
+    -fx-opacity: 100%;
+}
+
+.closeButton{
+    -fx-fill: #222127;
+}
+
+.closeButton:hover{
+    -fx-fill: #c71f68;
+}
+
+.backButton{
+    -fx-fill: #222127;
+}
+
+.backButton:hover{
+    -fx-fill: #c71f68;
+}
+
+.mainParent{
+
+}
+
+.sideBar{
+
+}
+
+.questionButton{
+    -fx-background-color: #222127;
+}
+.questionButton:hover{
+    -fx-background-color: #1e1d23;
+    -fx-border-color:  #c71f68;
+    -fx-border-width: 0px 3px 0px 3px;
+    -fx-border-style: solid;
+}
+
+.sideHomeButton{
+    -fx-background-color: #222127;
+}
+.sideHomeButton:hover{
+    -fx-background-color: #1e1d23;
+    -fx-border-color:  #c71f68;
+    -fx-border-width: 0px 0px 0px 3px;
+    -fx-border-style: solid;
+}
+
+.sideCryptButton{
+     -fx-background-color: #222127;
+ }
+.sideCryptButton:hover{
+ -fx-background-color: #1e1d23;
+ -fx-border-color:  #c71f68;
+ -fx-border-width: 0px 0px 0px 3px;
+ -fx-border-style: solid;
+}
+
+.sideDecryptButton{
+ -fx-background-color: #222127;
+}
+.sideDecryptButton:hover{
+ -fx-background-color: #1e1d23;
+ -fx-border-color:  #c71f68;
+ -fx-border-width: 0px 0px 0px 3px;
+ -fx-border-style: solid;
+}
+
+.sideGroupButton{
+  -fx-background-color: #222127;
+}
+
+.sideGroupButton:hover{
+  -fx-background-color: #1e1d23;
+  -fx-border-color:  #c71f68;
+  -fx-border-width: 0px 0px 0px 3px;
+  -fx-border-style: solid;
+}
+
+
+.sideMessageButton{
+   -fx-background-color: #222127;
+}
+
+.sideMessageButton:hover{
+   -fx-background-color: #1e1d23;
+   -fx-border-color:  #c71f68;
+   -fx-border-width: 0px 0px 0px 3px;
+   -fx-border-style: solid;
+}
+
+.sideShareButton{
+   -fx-background-color: #222127;
+}
+
+.sideShareButton:hover{
+   -fx-background-color: #1e1d23;
+   -fx-border-color:  #c71f68;
+   -fx-border-width: 0px 0px 0px 3px;
+   -fx-border-style: solid;
+}
+
+.sideSettingsButton{
+   -fx-background-color: #222127;
+}
+
+.sideSettingsButton:hover{
+   -fx-background-color: #1e1d23;
+   -fx-border-color:  #c71f68;
+   -fx-border-width: 0px 0px 0px 3px;
+   -fx-border-style: solid;
+}
+
+.comboKey .cell:selected {
+    -fx-text-fill: #c8c8c8;
+    -fx-font-family: Ebrima;
+}
+
+.okButton{
+    -fx-background-color: #222127;
+    -fx-text-fill: white;
+    -fx-background-radius: 5px;
+    -fx-border-radius: 5px;
+}
+
+.dialogBlur{
+    -fx-background-color: #222127;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+}
+
+.settingsMainPane{
+    -fx-background-color: transparent;
+}
+
+.settings-btns{
+    -fx-background-color: transparent;
+    -fx-background-radius: 0px;
+    -fx-text-fill: transparent;
+}
+
+.settings-btns: hover{
+    -fx-background-color: transparent;
+    -fx-background-radius: 0px;
+    -fx-border-color: #b81c67;
+    -fx-border-width: 0px 0px 3px 0px;
+    -fx-border-radius: 0px;
+    -fx-text-fill: transparent;
+}
+
+.icons:{
+    -fx-fill: #38373c;
+}
+
+.settings-btns:hover .icons{
+    -fx-fill:white;
+}
